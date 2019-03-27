@@ -4,6 +4,7 @@
 - **Download course materials (lecture notes and readings) below. Finish the readings before the lecture.**  
 - **The files are password-protected (see the course syllabus for detail).**  
 _______________________________________  
+  
 ## Course Syllabus (Spring Semester 2019)  
 [Click here to downloard]  
 
