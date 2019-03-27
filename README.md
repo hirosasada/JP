@@ -6,10 +6,10 @@
 _______________________________________  
   
   
-## Course Syllabus (Spring Semester 2019)  
-[Click here to downloard]  
+## Spring Semester 2019  
+[Course syllabus]  
   
-## Lecture Notes and Reading Materials  
+### Lecture Notes and Reading Materials  
   
 **Week 01:** **<font color="Red">No reading</font>** **Lecture note**  
 **Week 02: [Reading](https://drive.google.com/open?id=1BPwn2tSQ1yprBT4b0Mq9hSxkvHczf4py), Lecture note**    
