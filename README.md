@@ -6,8 +6,8 @@
 _______________________________________  
   
   
-## Spring Semester 2019  
-### [Syllabus]  
+# Spring Semester 2019  
+### Syllabus  
   
 ### Course Materials  
   
