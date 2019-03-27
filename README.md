@@ -1,5 +1,5 @@
 [home](https://hirosasada.github.io/) > [teaching](https://hirosasada.github.io/#teaching) > japanese politics  
-# JP Course Website
+# Course Website
 - For currently registered students only.
 - Download course materials (lecture notes and readings) below. Finish the readings before the lecture.  
 - The files are password-protected (see the course syllabus for detail).  
