@@ -8,7 +8,8 @@ _______________________________________
   
 ## Spring Semester 2019  
 ### Syllabus  
-- Click here to downloard  
+  Click here to downloard  
+  
 ### Course Materials  
   
 **Week 01:** **<font color="Red">No reading</font>** **Lecture note**  
