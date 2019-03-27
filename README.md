@@ -3,8 +3,11 @@
 - For currently registered students only.
 - Download course materials (lecture notes and readings) below. Finish the readings before the lecture.  
 - The files are password-protected (see the course syllabus for detail).  
-  
+
 _______________________________________  
+## Course Syllabus  
+- [Click here to downloard]  
+
 ## Lecture Notes and Reading Materials  
   
 **Week 01:** **<font color="Red">No reading</font>** **Lecture note**  
@@ -24,5 +27,3 @@ _______________________________________
 **Week 15: [Reading], [Lecture note]**  
 **Week 16:** **<font color="Red">Final Exam</font>**    
   
-## Course Syllabus  
-- [Click here to downloard]  
