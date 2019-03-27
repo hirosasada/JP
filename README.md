@@ -3,7 +3,7 @@
 - **For Currently registered students only.**  
 - **Download course materials (lecture notes and readings) below. Finish the readings before the lecture.**  
 - **The files are password-protected.**  
-_______________________________________  
+__________________________________________________________  
   
   
 ## Spring Semester 2019  
