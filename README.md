@@ -2,7 +2,7 @@
 # Introduction to Japanese Politics
 
 # Lecture Notes and Reading Materials  
-**Week 01  [Reading](https://drive.google.com/open?id=1BPwn2tSQ1yprBT4b0Mq9hSxkvHczf4py), Lecture note**
+**Week 01  [Reading](https://drive.google.com/open?id=1BPwn2tSQ1yprBT4b0Mq9hSxkvHczf4py), Lecture note**  
 **Week 02**  
 **Week 03**  
 **Week 04**  
