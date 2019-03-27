@@ -1,7 +1,8 @@
 [home](https://hirosasada.github.io/) > [teaching](https://hirosasada.github.io/#teaching) > japanese politics  
 # Introduction to Japanese Politics Course Website
 - For currently registered students only.
-- Download course materials (lecture notes and readings) below. Finish the readings before the lecture. The files are password-protected (see the course syllabus for detail).  
+- Download course materials (lecture notes and readings) below. Finish the readings before the lecture.  
+- The files are password-protected (see the course syllabus for detail).  
   
 _______________________________________  
 ## Lecture Notes and Reading Materials  
@@ -22,3 +23,6 @@ _______________________________________
 **Week 14: [Reading], [Lecture note]**  
 **Week 15: [Reading], [Lecture note]**  
 **Week 16:** **<font color="Red">Final Exam</font>**    
+  
+## Course Syllabus  
+- [Click here to downloard]  
