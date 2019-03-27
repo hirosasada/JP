@@ -1,6 +1,6 @@
 [home](https://hirosasada.github.io/) > [teaching](https://hirosasada.github.io/#teaching) > japanese politics  
 # Course Website
-- Spring Semester 2019  
+<div style="text-align: right;">Spring Semester 2019</div>　　
 - For Currently registered students only.  
 - Download course materials (lecture notes and readings) below. Finish the readings before the lecture.  
 - The files are password-protected (see the course syllabus for detail).  
