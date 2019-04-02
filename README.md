@@ -17,9 +17,9 @@ __________________________________________________________
 **Week 03: [Reading](https://drive.google.com/open?id=1SP9Fbhh2v8of-jYR1EjjTBswoqUgK0qI), [Lecture note]**  
 **Week 04: [Reading](https://drive.google.com/open?id=1nC8aHttbABuqTYyyNXgQVldUFisQQTRe), [Recommended Reading](https://drive.google.com/open?id=1zeoXxYymwEyooEnyfqKzd_Qg6eskQbDI), [Lecture note]**  
 **Week 05: [Reading](https://drive.google.com/open?id=1t64vzgMP6SLVMVm5tfpJHSv19NIXZ8g0), [Lecture note]**    
-**Week 06: [Reading], [Lecture note]**    
-**Week 07: [Reading], [Lecture note]**    
-**Week 08: [Reading], [Lecture note]**  
+**Week 06: [Reading](https://drive.google.com/open?id=1InH9kehoOdoh16hxlIveKtQFKxAzInQo), [Lecture note]**    
+**Week 07: [Reading](https://drive.google.com/open?id=1nTVPa7f-UeFXsHPFntmX_w43BebG6M8D), [Lecture note]**    
+**Week 08: [Reading](https://drive.google.com/open?id=1tblyYcUxrxI8kc_SqkIGBLcnw53M8nVl),[Recommended Reading](https://drive.google.com/open?id=1voely_5Gcq9Bdlq4COpWz51dNpnjHdRE), [Lecture note]**  
 **Week 09:** **<font color="Red">Midterm Exam</font>**  
 **Week 10: [Reading], [Lecture note]**   
 **Week 11: [Reading], [Lecture note]**  
