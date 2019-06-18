@@ -25,7 +25,7 @@ __________________________________________________________
 **Week 11: [Reading](https://drive.google.com/open?id=1ygMpiejSPKMKYXrwtWCQe5Py-wZ2ee6P), [Lecture note]**  
 **Week 12: No Reading, [Lecture note]**  
 **Week 13: [Reading](https://drive.google.com/open?id=1V4MTzuYEbsFcKe6ogxNBhha10BVQbYUp), [Lecture note]**  
-**Week 14: [Reading]（https://drive.google.com/open?id=1h973AnYWRopANzGlB0YhJsW9qdOaDeOr）, [Lecture note]**  
+**Week 14: [Reading](https://drive.google.com/open?id=1h973AnYWRopANzGlB0YhJsW9qdOaDeOr), [Lecture note]**  
 **Week 15: [Reading], [Lecture note]**  
 **Week 16:** **<font color="Red">Final Exam</font>**    
   
