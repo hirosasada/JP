@@ -12,7 +12,7 @@ __________________________________________________________
   
 ### Course Materials  
   
-**Week 01:** **<font color="Red">No reading</font>**    
+**Week 01:** **<font color="Brown">No reading</font>**    
 **Week 02: [Reading](https://drive.google.com/open?id=1BPwn2tSQ1yprBT4b0Mq9hSxkvHczf4py), [Lecture note](https://drive.google.com/open?id=1QoerGGbNICB3K4kCTxEgoocGAn_xNcaj)**    
 **Week 03: [Reading](https://drive.google.com/open?id=1SP9Fbhh2v8of-jYR1EjjTBswoqUgK0qI), [Lecture note](https://drive.google.com/open?id=1GeQBRAfFNigNOcqxTL90swqhMp3CDZIn)**  
 **Week 04: [Reading](https://drive.google.com/open?id=1nC8aHttbABuqTYyyNXgQVldUFisQQTRe), [Recommended Reading](https://drive.google.com/open?id=1zeoXxYymwEyooEnyfqKzd_Qg6eskQbDI), [Lecture note](https://drive.google.com/open?id=1UgtybZVJb0retfG283UnfKQL1_cG3zQf)**  
@@ -23,7 +23,7 @@ __________________________________________________________
 **Week 09:** **<font color="Red">Midterm Exam</font>**  
 **Week 10: [Reading](https://drive.google.com/open?id=1yo0mfwHePL3To4wS7rKTV_IO2ukTmh1t), [Lecture note]**   
 **Week 11: [Reading](https://drive.google.com/open?id=1ygMpiejSPKMKYXrwtWCQe5Py-wZ2ee6P), [Lecture note]**  
-**Week 12: No Reading, [Lecture note]**  
+**Week 12: **<font color="Brown">No reading</font>**, [Lecture note]**  
 **Week 13: [Reading](https://drive.google.com/open?id=1V4MTzuYEbsFcKe6ogxNBhha10BVQbYUp), [Lecture note]**  
 **Week 14: [Reading](https://drive.google.com/open?id=1h973AnYWRopANzGlB0YhJsW9qdOaDeOr), [Lecture note]**  
 **Week 15: [Reading], [Lecture note]**  
