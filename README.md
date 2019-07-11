@@ -26,6 +26,6 @@ __________________________________________________________
 **Week 12:** **<font color="Brown">No reading,</font>**   
 **Week 13: [Reading](https://drive.google.com/open?id=1V4MTzuYEbsFcKe6ogxNBhha10BVQbYUp), [Lecture note](https://drive.google.com/open?id=1WrZSJ_kOvbYriZjkQS1UoUS22v-oZbBR)**  
 **Week 14: [Reading](https://drive.google.com/open?id=1h973AnYWRopANzGlB0YhJsW9qdOaDeOr), [Lecture note]**  
-**Week 15: [Reading](https://drive.google.com/open?id=1H4NiQ5z4iTUBL_NXzaFcKZX_DEPsZdZC), [Lecture note]**  
+**Week 15: [Reading](https://drive.google.com/open?id=1H4NiQ5z4iTUBL_NXzaFcKZX_DEPsZdZC),[Recommended Reading](https://drive.google.com/open?id=1zkjM0tShW9h40a6k9pzi1w0Pw9xpNUsE), [Lecture note]**  
 **Week 16:** **<font color="Red">Final Exam</font>**    
   
