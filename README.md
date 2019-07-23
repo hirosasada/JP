@@ -11,7 +11,7 @@ __________________________________________________________
   Click [here](https://drive.google.com/open?id=1Whv2x-EkC8HAGJ7PAXOgowJZ6Fvow3Zg) to downloard   
 ### Instructions for course evaluation
   Click [here](https://drive.google.com/open?id=1fcojhYvPNWkZuZucG_VxiuW8dUEGC8_U)
-  
+   
 ### Course Materials  
   
 **Week 01:** **<font color="Brown">No reading</font>**    
