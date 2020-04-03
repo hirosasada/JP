@@ -6,11 +6,9 @@
 __________________________________________________________  
   
   
-## Spring Semester 2019  
+## Spring Semester 2020  
 ### Syllabus  
   Click [here] to downloard   
-### Instructions for course evaluation
-  Click [here](https://drive.google.com/open?id=1fcojhYvPNWkZuZucG_VxiuW8dUEGC8_U)
    
 ### Course Materials  
   
